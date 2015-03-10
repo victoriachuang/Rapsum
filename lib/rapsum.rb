@@ -130,11 +130,3 @@ module Rapsum
 	end
 
 end
-
-puts Rapsum.tagline
-puts '---'
-puts Rapsum.short_sentence
-puts '---'
-puts Rapsum.long_sentence
-puts '---'
-puts Rapsum.paragraph

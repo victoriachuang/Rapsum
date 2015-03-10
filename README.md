@@ -12,7 +12,7 @@ $ gem install rapsum
 
 And require it in your Gemfile and files:
 ```ruby
-gem 'rapsum', '~> 0.0.4'
+gem 'rapsum', '~> 0.0.5'
 require 'rapsum'
 ```
 
