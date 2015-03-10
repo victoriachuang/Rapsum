@@ -12,7 +12,7 @@ $ gem install rapsum
 
 And require it in your Gemfile and files:
 ```ruby
-gem 'rapsum', '~> 0.0.2'
+gem 'rapsum', '~> 0.0.3'
 require 'rapsum'
 ```
 
@@ -20,7 +20,7 @@ require 'rapsum'
 
 ```ruby
 Rapsum.short_sentence
-# => "I must a quarter milli on me right now."
+# => "I must have a quarter milli on me right now."
 
 Rapsum.long_sentence
 # => "A lot of fools putting salt in the game til these women get the notion that they running the game."
