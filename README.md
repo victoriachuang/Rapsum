@@ -12,13 +12,16 @@ $ gem install rapsum
 
 And require it in your Gemfile and files:
 ```ruby
-gem 'rapsum', '~> 0.0.3'
+gem 'rapsum', '~> 0.0.4'
 require 'rapsum'
 ```
 
 ### Generating rap lyrics
 
 ```ruby
+Rapsum.tagline
+# => "I ain't sayin she a gold digger"
+
 Rapsum.short_sentence
 # => "I must have a quarter milli on me right now."
 
