@@ -1,6 +1,4 @@
-module Rapsum # rap lyric faker!
-
-	@short_sentence_samples = [
+SHORT_SENTENCE_SAMPLES = [
 
 		# 7-11 - Beyonce
 		"Smack it in the air.",
@@ -52,11 +50,10 @@ module Rapsum # rap lyric faker!
 
 		# Left Right - YG
 		"Left, left right.",
-		"Right",
 		
-	]
+]
 
-	@long_sentence_samples = [
+LONG_SENTENCE_SAMPLES = [
 
 		# Ms. Holy Water - Luke Christopher
 		"Not to mention that the booty's almost better than the face.",
@@ -77,36 +74,24 @@ module Rapsum # rap lyric faker!
 		"But I'm big on the west like I'm big in the south.",
 		"I would pinky swear but my pinky ring too big.",
 
+]
 
-	]
+module Rapsum
 
-
-	# generate short sentences
 	def self.short_sentence
-		@short_sentence_samples.sample
+		SHORT_SENTENCE_SAMPLES.sample
 	end
 
-
-	# generate long sentences
 	def self.long_sentence
-		@long_sentence_samples.sample
+		LONG_SENTENCE_SAMPLES.sample
 	end
 
-
-	# generate paragraphs
-	# between 7 and 15 sentences - rand short and long sentences
 	def self.paragraph
 		paragraph = []
 		rand(7..15).times do
-			paragraph << (@short_sentence_samples + @long_sentence_samples).sample
+			paragraph << (SHORT_SENTENCE_SAMPLES + LONG_SENTENCE_SAMPLES).sample
 		end
 		paragraph.join(' ')
 	end
 
 end
-
-puts Rapsum.short_sentence
-puts '---'
-puts Rapsum.long_sentence
-puts '---'
-puts Rapsum.paragraph
