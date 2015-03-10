@@ -2,105 +2,150 @@
 
 SHORT_SENTENCE_SAMPLES = [
 
-		# 7-11 - Beyonce
+		# Beyonce - 7-11
 		"Smack it in the air",
 		"Spinnin' while my hands up",
 		"Hold that cup like alcohol",
 		"This here like rolling dice",
 
-		# Flawless - Beyonce
+		# Beyonce - Flawless
 		"#flawless",
 		"I woke up like this",
 
-		# Throw Sum Mo - Rae Srummond
-		"It's raining hunnids",
-		"Throw some more",
-
-		# Burial - Yogi
-		"Let's turn this bitch into a burial",
-		"I came, I saw, I conquered, I balled",
-
-		# Truffle Butter - Nicki Minaj
-		"I must have a quarter milli on me right now",
-		"New flow I got a dozen of them",
-		"Talkin filets with the truffle butter",
-		"I ain't gotta compete with a single soul",
-		
-		# Mercy - Kanye West
-		"Lamborghini mercy",
-
-		# I Don't Fuck With You - Big Sean
+		# Big Sean - I Don't Fuck With You
 		"I don't fuck with you",
 		"I just dodged a bullet from a crazy bitch",
 		"She got a bird brain",
 
-		# Started From The Bottom - Drake
+		# Drake - Started From The Bottom 
 		"Started from the bottom now we here",
 
-		# Who Do You Love - YG
-		"Better run like athletes",
-		"I call my homies, not 911",
-		"Bitch, who do you love",
-		"We turnt up in the studio late night",
+		# Drake - 0 to 100
+		"We go 0 to 100 real quick",
+		"Real fucking quick",		
 
-		# Swimming Pools - Kendrick Lamar
+		# Drake - Believe Me
+		"I'm the only one that get the job done",
+
+		# Jay-Z - On to the Next One
+		"On to the next one",
+		"Now double your money and make it stack",
+		"Somebody bring me back some money please",
+		"I got a million ways to get it",
+
+		# Kanye, Jay-Z - Ninjas in Paris
+		"Bitch behave",
+		"That shit cray",
+
+		# Kanye West - Mercy
+		"Lamborghini mercy",
+		"I'm in this two seat lambo",
+
+		# Kanye West - Gold Digger
+		"I ain't sayin she a gold digger",
+
+		# Kanye West - Bound 2
+		"Uhuh honey",
+		"One good girl is worth a thousand bitches",
+		"What you doin at the club on a Thursday",
+
+		# Kendrick Lamar - Swimming Pools
 		"Drank",
 		"Some people like the way it feels",
 		"Some people want to kill their sorrows",
 		"Ima show you how to turn it up a notch",
 		"Pool full of liquor and you dive in it",
 
-		# Left Right - YG
+		# Lil Wayne - Watch My Shoes
+		"No ceilings",
+		"Motherfucker good morning",
+
+		# Nicki Minaj - Anaconda
+		"I ain't talkin bout Eiffel",
+		"Now he callin me NyQuil",
+		"Omgosh, look at her butt",
+
+		# Nicki Minaj - Truffle Butter
+		"I must have a quarter milli on me right now",
+		"New flow I got a dozen of them",
+		"Talkin filets with the truffle butter",
+		"I ain't gotta compete with a single soul",
+
+		# Rae Srummond - Throw Sum Mo
+		"It's raining hunnids",
+		"Throw some more",
+
+		# YG - Left Right
 		"Left, left right",
 
-		# 0 to 100 - Drake
-		"We go 0 to 100 real quick",
-		"Real fucking quick",
+		# YG - Who Do You Love
+		"Better run like athletes",
+		"I call my homies, not 911",
+		"Bitch, who do you love",
+		"We turnt up in the studio late night",
+		"My name too big and my gang too big",
 
-		# Bound 2 - Kanye West
-		"Uhuh honey",
-
-		# Gold Digger - Kanye West
-		"I ain't sayin she a gold digger",
-
-		# Believe Me - Drake
-		"I'm the only one that get the job done",
-
-		# On to the Next One - Jay-Z
-		"On to the next one",
-		"Now double your money and make it stack",
-		"Somebody bring me back some money please",
-
+		# Yogi - Burial
+		"Let's turn this bitch into a burial",
+		"I came, I saw, I conquered, I balled",
 
 		"Squad going up",
+
+		"I'm so crown",
+		"Bow down bitches",
+		"Damn it feels good to be a gangsta",
 		
 ]
 
 LONG_SENTENCE_SAMPLES = [
 
-		# Ms. Holy Water - Luke Christopher
-		"Not to mention that the booty's almost better than the face",
-
-		# I Don't Fuck With You - Big Sean
+		# Big Sean - I Don't Fuck With You
 		"I got a million trillion things I'd rather fucking do",
 		"I got a bitch who text me she ain't got no clothes on",
 		"I could be broke and keep a million dollar smile",
 
-		# Started From The Bottom - Drake
+		# Childish Gambino - Freaks and Geeks
+		"Bunnies wantin to be fed, I mean hunnies oh forget it",
+
+		# Drake - Started From The Bottom
 		"Story stay the same through the money and the fame",
 		"Started from the bottom now the whole team here",
 
-		# Who Do You Love - YG
+		# Drake - 0 to 100
+		"I don't feel this shit, not even a little bit",
+		"She gon be upset if she keeps scrolling to the left",
+
+		# Drake - The Motto
+		"My team good, we don't even need a mascot",
+
+		# Kanye, Jay-Z - Ninjas in Paris
+		"Ball so hard, motherfuckers wanna fine me",
+
+		# Lil Wayne - Watch My Shoes
+		"Syrup got me slow like a turtle round this hoe",
+		"I'm flyer than the highest flying bird around this hoe",
+
+		# Luke Christopher - Ms. Holy Water
+		"Not to mention that the booty's almost better than the face",
+
+		# Nicki Minaj - Beez in da Trap
+		"Bitches say shit and they ain't sayin nothin",
+		"A hundred motherfuckers can't tell me nothin",
+
+		# Nicki Minaj - Anaconda
+		"Boy toy named Troy used to live in Detroit",
+		"Big dope to the money he was gettin some coin",
+		"Bought me Alexander McQueen, he was keeping me stylish",
+		"He can tell I ain't missing no meals",
+		"This dude named Michael used to ride motorcycles",
+		"My anaconda don't want none unless you got buns hun",
+
+		# YG - Who Do You Love
 		"We turnt up in the studio late night, that's why the songs that you hear coming real tight",
 		"A lot of fools putting salt in the game til these women get the notion that they running the game",
 		"They got money that they jumping on the pole to make",
 		"But I'm big on the west like I'm big in the south",
 		"I would pinky swear but my pinky ring too big",
-
-		# 0 to 100 - Drake
-		"I don't feel this shit, not even a little bit",
-		"She gon be upset if she keeps scrolling to the left",
-
 
 		# "Club going up on a #{Date::DAYNAMES[Date.today.wday]}.",
 		"Club going up on a #{Time.now.strftime("%A")}",
