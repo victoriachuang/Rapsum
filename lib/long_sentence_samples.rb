@@ -3,7 +3,6 @@ LONG_SENTENCE_SAMPLES = [
 		# Big Sean - I Don't Fuck With You
 		"I got a million trillion things I'd rather fucking do",
 		"I got a bitch who text me she ain't got no clothes on",
-		"I could be broke and keep a million dollar smile",
 
 		# Childish Gambino - Freaks and Geeks
 		"Bunnies wantin to be fed, I mean hunnies oh forget it",
@@ -47,6 +46,9 @@ LONG_SENTENCE_SAMPLES = [
 		"He can tell I ain't missing no meals",
 		"This dude named Michael used to ride motorcycles",
 		"My anaconda don't want none unless you got buns hun",
+
+		# Nicki Minaj - Truffle Butter
+		"I could be broke and keep a million dollar smile",
 
 		# Tyga - Rack City
 		"All the hoes love me, you know what it is",
