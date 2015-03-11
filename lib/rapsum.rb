@@ -1,4 +1,3 @@
-# require 'date'
 require_relative 'long_sentence_samples'
 require_relative 'short_sentence_samples'
 
@@ -24,9 +23,4 @@ module Rapsum
 		SHORT_SENTENCE_SAMPLES.sample
 	end
 
-end
-
-5.times do
-	puts Rapsum.paragraph
-	puts '---'
 end
