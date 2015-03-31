@@ -3,7 +3,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |s|
   s.name               = "rapsum"
-  s.version            = "0.0.6"
+  s.version            = "0.0.7"
   s.default_executable = "rapsum"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.date = %q{2015-03-10}
   s.description = %q{A rap lyric faker}
   s.email = %q{victoriachuang@gmail.com}
-  s.files = ["lib/rapsum.rb", "lib/short_sentence_samples.rb", "lib/long_sentence_samples.rb"]
+  s.files = ["lib/rapsum.rb", "lib/short_sentence_samples.rb", "lib/long_sentence_samples.rb", "lib/names.rb"]
   # s.test_files = ["test/test_hola.rb"]
   s.homepage = %q{https://rubygems.org/gems/rapsum}
   s.license       = 'MIT'

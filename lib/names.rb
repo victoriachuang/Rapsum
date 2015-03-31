@@ -1,0 +1,15 @@
+NAMES = [
+	"beyonce",
+	"big_sean",
+	"drake",
+	"i_am_a_god",
+	"jay_z",
+	"kendrick",
+	"kanye",
+	"lil_wayne",
+	"nicki",
+	"queen_b",
+	"shmurda",
+	"tyga",
+	"z_ro",
+]

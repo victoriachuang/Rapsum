@@ -31,4 +31,8 @@ Rapsum.long_sentence
 Rapsum.paragraph
 # Generates a paragraph between 7 and 15 sentences long
 # => "Smack it in the air. It's raining hunnids. I woke up like this. Some people want to kill their sorrows. Drank. I ain't gotta compete with a single soul. I call my homies, not 911. Left, left right. I just dodged a bullet from a crazy bitch. I could be broke and keep a million dollar smile. Not to mention that the booty's almost better than the face. Let's turn this bitch into a burial."
+
+Rapsum.email
+# => Generates a random Gmail address. Because Gmail is everything.
+# => "shmurda@gmail.com"
 ```

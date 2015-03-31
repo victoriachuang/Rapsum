@@ -50,6 +50,9 @@ LONG_SENTENCE_SAMPLES = [
 		# Nicki Minaj - Truffle Butter
 		"I could be broke and keep a million dollar smile",
 
+		# Shmurda - Hot Ninja
+		"Get that money back and spend it on the same thing",
+
 		# Tyga - Rack City
 		"All the hoes love me, you know what it is",
 

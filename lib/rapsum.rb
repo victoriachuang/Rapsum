@@ -1,4 +1,5 @@
 require_relative 'long_sentence_samples'
+require_relative 'names'
 require_relative 'short_sentence_samples'
 
 module Rapsum
@@ -21,6 +22,10 @@ module Rapsum
 
 	def self.tagline
 		SHORT_SENTENCE_SAMPLES.sample
+	end
+
+	def self.email
+		NAMES.sample + "@gmail.com"
 	end
 
 end

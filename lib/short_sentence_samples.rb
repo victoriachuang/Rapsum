@@ -89,6 +89,11 @@ SHORT_SENTENCE_SAMPLES = [
 		"Throw some more",
 		"The faster you spend it, the faster it go",
 
+		# Shmurda - Hot Ninja
+		"All I do is cash out",
+		"Bout a week agoooo",
+		"Shots poppin out the AR",
+
 		# Tyga - Rack City
 		"Rack city bitch",
 		"Rack rack city bitch",
