@@ -1,7 +1,7 @@
 # Rapsum
 ### A rap lyric faker
 
-I don't like Ipsum Lorem, and when I'm coding I'm usually listening to rap. I made a rap lyric faker gem to make creating dummies faster and easier!
+When I was making dummies for various tests and database seeds, I was uninspired by basic Ipsum Lorem, so I decided to make my own faker--a rap lyric faker.
 
 ### Using Rapsum
 
