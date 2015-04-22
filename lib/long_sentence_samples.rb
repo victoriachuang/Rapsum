@@ -4,8 +4,14 @@ LONG_SENTENCE_SAMPLES = [
 		"I got a million trillion things I'd rather fucking do",
 		"I got a bitch who text me she ain't got no clothes on",
 
+		# Bobby Shmurda - Hot ninja
+		"Get that money back and spend it on the same thing",
+
 		# Childish Gambino - Freaks and Geeks
 		"Bunnies wantin to be fed, I mean hunnies oh forget it",
+
+		# Chris Brown - Loyal
+		"All this money in the air, I wanna see you dance",
 
 		# Drake - Started From The Bottom
 		"Story stay the same through the money and the fame",

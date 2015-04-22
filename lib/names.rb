@@ -11,5 +11,6 @@ NAMES = [
 	"queen_b",
 	"shmurda",
 	"tyga",
+	"young_money",
 	"z_ro",
 ]

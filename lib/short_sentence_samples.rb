@@ -15,6 +15,25 @@ SHORT_SENTENCE_SAMPLES = [
 		"I just dodged a bullet from a crazy bitch",
 		"She got a bird brain",
 
+		# Bobby Shmurda - Hot Ninja
+		"How much shmoney's that?",
+		"We keep em nine millis on my block",
+		"Runnin through these checks til I pass out",
+		"All I do is cash out",
+		"All I do is cache out",
+		"If you ain't a ho, get up out my trap house",
+		"I be gettin money til I fall out",
+		"GS for my gun squad",
+		"Some wayyyyy, free Breezy ho",
+		"Bout a week agoooo",
+		"Shots poppin out the AR",
+
+		# Chris Brown - Loyal
+		"I know these hoes ain't right",
+		"These hoes ain't loyal",
+		"Just got rich",
+		"I can make a broke bitch rich",
+
 		# Drake - The Motto
 		"25 sittin on 25 mill",
 		"The pimpin ice cold",
@@ -88,11 +107,6 @@ SHORT_SENTENCE_SAMPLES = [
 		"Bad bitches on the floor",
 		"Throw some more",
 		"The faster you spend it, the faster it go",
-
-		# Shmurda - Hot Ninja
-		"All I do is cash out",
-		"Bout a week agoooo",
-		"Shots poppin out the AR",
 
 		# Tyga - Rack City
 		"Rack city bitch",
