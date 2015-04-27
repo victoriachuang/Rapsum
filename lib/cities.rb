@@ -1,0 +1,15 @@
+CITIES = [
+	"ATL",
+	"Chi-town",
+	"Cleveland",
+	"DC",
+	"Detroit",
+	"East coast",
+	"KC",
+	"Miami",
+	"Nap-town",
+	"New Orleans",
+	"Oklahoma",
+	"St. Louis",
+	"West Coast",
+]

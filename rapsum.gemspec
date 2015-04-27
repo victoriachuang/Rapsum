@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.date = %q{2015-04-22}
   s.description = %q{A rap lyric faker}
   s.email = %q{victoriachuang@gmail.com}
-  s.files = ["lib/rapsum.rb", "lib/short_sentence_samples.rb", "lib/long_sentence_samples.rb", "lib/names.rb", "lib/kanyeism.rb"]
+  s.files = ["lib/rapsum.rb", "lib/short_sentence_samples.rb", "lib/long_sentence_samples.rb", "lib/names.rb", "lib/kanyeism.rb", "lib/cities.rb"]
   # s.test_files = ["test/test_hola.rb"]
   s.homepage = %q{https://rubygems.org/gems/rapsum}
   s.license       = 'MIT'

@@ -41,6 +41,11 @@ LONG_SENTENCE_SAMPLES = [
 		# Luke Christopher - Ms. Holy Water
 		"Not to mention that the booty's almost better than the face",
 
+		# Nelly - Tip Drill
+		"We throwin money in the air like we don't give a fuck",
+		"Now mama girl you got a friend that don't mind joining in",
+		"You lookin good in them shorts but they look better on the floor",
+
 		# Nicki Minaj - Beez in da Trap
 		"Bitches say shit and they ain't sayin nothin",
 		"A hundred motherfuckers can't tell me nothin",

@@ -1,3 +1,5 @@
+require_relative 'cities'
+
 SHORT_SENTENCE_SAMPLES = [
 
 		# Beyonce - 7-11
@@ -91,6 +93,17 @@ SHORT_SENTENCE_SAMPLES = [
 		"No ceilings",
 		"Motherfucker good morning",
 
+		# Nelly - Tip Drill
+		"Must be your ass, cause it ain't your face",
+		"I need a tip drill",
+		"It ain't no fun less we all get some",
+		"Turn that ass up mama, put that dip in ya back",
+		"What's poppin tonight",
+		"Must be your money, cause it ain't your face",
+		"My apple bottom lookin right, I know you wanna bite",
+		"I got you paying my bills and buying automobiles",
+		"#{CITIES.sample} got tip drill",
+
 		# Nicki Minaj - Anaconda
 		"I ain't talkin bout Eiffel",
 		"Now he callin me NyQuil",
@@ -101,6 +114,16 @@ SHORT_SENTENCE_SAMPLES = [
 		"New flow I got a dozen of them",
 		"Talkin filets with the truffle butter",
 		"I ain't gotta compete with a single soul",
+
+		# Omarion - Post To Be
+		"I'm gettin money like I'm post to be",
+		"Ohhhh the hoes go for me",
+		"That's how it post to be",
+		"Everything good like it post to be",
+		"Gave it up like a groupie",
+		"I might let your boy chaffeur me",
+		"But he gotta eat the booty like groceries",
+		"But he gotta get rid of these hoes for me",
 
 		# Rae Srummond - Throw Sum Mo
 		"It's raining hunnids",
