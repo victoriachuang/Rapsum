@@ -3,6 +3,8 @@
 
 When I was making dummies for various tests and database seeds, I was uninspired by basic Ipsum Lorem, so I decided to make my own faker--a rap lyric faker.
 
+Please submit song requests to victoriachuang@gmail.com!
+
 ### Using Rapsum
 
 Install rapsum in your command line:
