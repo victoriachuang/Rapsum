@@ -12,7 +12,7 @@ $ gem install rapsum
 
 And require it in your Gemfile and files:
 ```ruby
-gem 'rapsum', '~> 0.0.10'
+gem 'rapsum', '~> 0.1.1'
 require 'rapsum'
 ```
 
@@ -24,17 +24,17 @@ Rapsum.email
 # => "kendrick@gmail.com"
 
 Rapsum.tagline
-# => "I need my money pronto"
+# => "I'm the only one that get the job done"
 
 Rapsum.short_sentence
-# => "Started from the bottom now we here."
+# => "Back it up, drop it down."
 
 Rapsum.long_sentence
-# => "We turnt up in the studio late night, that's why the songs that you hear coming real tight."
+# => "Some Spanish girls love me like I'm Aventura."
 
 Rapsum.paragraph
 # Generates a paragraph between 7 and 15 sentences long
-# => "Get that money back and spend it on the same thing. I be gettin money til I fall out. Girl wobble it, and Ima gobble it. Syrup got me slow like a turtle round this hoe. Better run like athletes. We turnt up in the studio late night. I call my homies, not 911. Smack it in the air. If you ain't a ho, get up out my trap house. My flow is in the pocket like wallace, I got the bounce like hydrolics. I can make a broke bitch rich. Some Spanish girls love me like I'm Aventura. I got a bitch who text me she ain't got no clothes on. Some wayyyyy, free Breezy ho."
+# => "Rack city bitch. Damn it feels good to be a gangsta. My team good, we don't even need a mascot. Let's turn this bitch into a burial. It's raining hunnids. I might cause a cold front if I take a deep breath. Some wayyyyy, free Breezy ho. Story stay the same through the money and the fame. Add the whole top diamond and the bottom row's gold. All I do is cash out. I woke up like this. 25 sittin on 25 mill."
 ```
 
 ### And sometimes you need some confidence.

@@ -34,12 +34,25 @@ LONG_SENTENCE_SAMPLES = [
 		# Kanye West - Get Em High
 		"My flow is in the pocket like wallace, I got the bounce like hydrolics",
 
+		# Lil Wayne - 6 Foot 7 Foot
+		"But most of y'all don't get the picture less the flash is on",
+
 		# Lil Wayne - Watch My Shoes
 		"Syrup got me slow like a turtle round this hoe",
 		"I'm flyer than the highest flying bird around this hoe",
 
 		# Luke Christopher - Ms. Holy Water
 		"Not to mention that the booty's almost better than the face",
+
+		# Nelly - "Grillz"
+		"Rob the jewelry store and tell 'em make me a grill",
+		"Add the whole top diamond and the bottom row's gold",
+		"I'm changing grills errday, like Jay change clothes",
+		"Got 30 down at the bottom, 30 more at the top",
+		"I might cause a cold front if I take a deep breath",
+		"Open up my mouth and you see more carrots than a salad",
+		"Call me George Foreman cause I'm selling everybody grills",
+		"Got a bill in my mouth like I'm Hillary Rodham",
 
 		# Nelly - Tip Drill
 		"We throwin money in the air like we don't give a fuck",

@@ -93,6 +93,12 @@ SHORT_SENTENCE_SAMPLES = [
 		"No ceilings",
 		"Motherfucker good morning",
 
+		# Nelly - "Grillz"
+		"But my lil mama love it",
+		"Let me see your grill",
+		"Let you see my what",
+		"Ya, ya grill, ya, ya, ya grill",
+
 		# Nelly - Tip Drill
 		"Must be your ass, cause it ain't your face",
 		"I need a tip drill",
@@ -130,6 +136,12 @@ SHORT_SENTENCE_SAMPLES = [
 		"Bad bitches on the floor",
 		"Throw some more",
 		"The faster you spend it, the faster it go",
+
+		# Rich Homie Quan
+		"Walked in dernernernerner",
+		"Walked in $30,000 in my pocket",
+		"Fidundolla",
+		"$50,000 on your bitch",
 
 		# Tyga - Rack City
 		"Rack city bitch",
