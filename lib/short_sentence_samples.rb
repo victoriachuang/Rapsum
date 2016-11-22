@@ -85,6 +85,11 @@ SHORT_SENTENCE_SAMPLES = [
 		"Fidundolla",
 		"$50,000 on your bitch",
 
+		# Supa Hot Fire - Original rap battle
+		"Super hot fire, I spit that",
+		"I'm not a rapper",
+		"Glasses jacket shirt, call me glasses jacket shirt man",
+
 		# Tyga - Rack City
 		"Rack city bitch",
 		"Rack rack city bitch",

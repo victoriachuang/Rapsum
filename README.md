@@ -14,7 +14,7 @@ $ gem install rapsum
 
 And require it in your Gemfile and files:
 ```ruby
-gem 'rapsum', '~> 0.1.1'
+gem 'rapsum', '~> 0.1.3'
 require 'rapsum'
 ```
 
