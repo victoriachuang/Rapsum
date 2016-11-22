@@ -1,12 +1,13 @@
 require_relative 'kanyeism'
 require_relative 'long_sentence_samples'
 require_relative 'names'
+require_relative 'rich_homie_quan'
 require_relative 'short_sentence_samples'
 
 module Rapsum
 
 	def self.email
-		NAMES.sample + "@gmail.com"
+		NAMES.sample + '@gmail.com'
 	end
 
 	def self.give_me_a_kanye
@@ -19,7 +20,7 @@ module Rapsum
 
 	def self.paragraph
 		paragraph = []
-		rand(7..15).times do
+		rand(5..10).times do
 			paragraph << (SHORT_SENTENCE_SAMPLES + LONG_SENTENCE_SAMPLES).sample
 		end
 		paragraph.join('. ') + '.'
@@ -29,8 +30,11 @@ module Rapsum
 		SHORT_SENTENCE_SAMPLES.sample + '.'
 	end
 
-	def self.tagline
-		SHORT_SENTENCE_SAMPLES.sample
+	def self.rich_homie_quan_translate(lyric)
+		RICH_HOMIE_QUAN_TRANSLATE.sample + '.'
 	end
 
+	def self.rich_homie_quan_decipher(lyric)
+		RICH_HOMIE_QUAN_DECIPHER.sample + '.'
+	end
 end
