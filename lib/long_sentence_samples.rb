@@ -1,7 +1,6 @@
 LONG_SENTENCE_SAMPLES = [
 
 		# Big Sean - I Don't Fuck With You
-		"I got a million trillion things I'd rather fucking do",
 		"I got a bitch who text me she ain't got no clothes on",
 
 		# Bobby Shmurda - Hot ninja
@@ -22,14 +21,10 @@ LONG_SENTENCE_SAMPLES = [
 		"She gon be upset if she keeps scrolling to the left",
 
 		# Drake - The Motto
-		"Now she want a photo, you already know though",
 		"Some Spanish girls love me like I'm Aventura",
 		"My team good, we don't even need a mascot",
 		"I can almost guarantee she know the deal",
 		"Can't see em cause the money in the way",
-
-		# Kanye, Jay-Z - Ninjas in Paris
-		"Ball so hard, motherfuckers wanna fine me",
 
 		# Kanye West - Get Em High
 		"My flow is in the pocket like wallace, I got the bounce like hydrolics",
@@ -86,8 +81,4 @@ LONG_SENTENCE_SAMPLES = [
 		"They got money that they jumping on the pole to make",
 		"But I'm big on the west like I'm big in the south",
 		"I would pinky swear but my pinky ring too big",
-
-		# "Club going up on a #{Date::DAYNAMES[Date.today.wday]}.",
-		"Club going up on a #{Time.now.strftime("%A")}",
-
 ]
