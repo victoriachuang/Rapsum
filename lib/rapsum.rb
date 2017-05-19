@@ -1,7 +1,6 @@
 require_relative 'kanyeism'
 require_relative 'long_sentence_samples'
 require_relative 'names'
-require_relative 'rich_homie_quan'
 require_relative 'short_sentence_samples'
 
 module Rapsum
@@ -28,13 +27,5 @@ module Rapsum
 
 	def self.short_sentence
 		SHORT_SENTENCE_SAMPLES.sample + '.'
-	end
-
-	def self.rich_homie_quan_translate(lyric)
-		RICH_HOMIE_QUAN_TRANSLATE.sample + '.'
-	end
-
-	def self.rich_homie_quan_decipher(lyric)
-		RICH_HOMIE_QUAN_DECIPHER.sample + '.'
 	end
 end

@@ -23,6 +23,15 @@ SHORT_SENTENCE_SAMPLES = [
 		"I know these hoes ain't right",
 		"These hoes ain't loyal",
 
+		# DJ Khaled - I'm The One
+		"You're lookin at the truth, the money never lie",
+		"Don't let the only real one intimidate ya",
+		"She the one that bring them rain drops",
+		"She see the ice, it make her coochie melt",
+		"Dont make me catch a body",
+		"Bitch, you blow my high",
+		"I'm just flexin on my exes",
+
 		# Drake - The Motto
 		"25 sittin on 25 mill",
 		"The pimpin ice cold",
@@ -39,6 +48,11 @@ SHORT_SENTENCE_SAMPLES = [
 		# Drake - Believe Me
 		"I'm the only one that get the job done",
 
+		# Jason Derulo - Talk Dirty
+		"Your booty don't need explainin",
+		"Dos cadenas, close to genius",
+		"Got her saved in my phone under Big Booty",
+
 		# Jay-Z - On to the Next One
 		"On to the next one",
 		"Now double your money and make it stack",
@@ -53,14 +67,11 @@ SHORT_SENTENCE_SAMPLES = [
 
 		# Lil Dicky - Save Dat Money
 		"Trap God and we servin' up the whole world",
-		"Ay, where the gold at, baby",
+		"Where the gold at, baby",
 		"And the banger but you know I ain't tryna blow that baby",
-		"Ay, we gon' save that money",
 		"Rap game got it all wrong",
 		"We ain't bout to go and spend money just to flex on her",
-		"Drugs are generic but still work the same",
 		"You get your fucking bill and you can see em double chargin",
-		"Ohhhh don't double charge me for that",
 
 		# Nelly - "Grillz"
 		"But my lil mama love it",
@@ -79,16 +90,16 @@ SHORT_SENTENCE_SAMPLES = [
 		"I got you paying my bills and buying automobiles",
 		"#{CITIES.sample} got tip drill",
 
-		# Rich Homie Quan
-		"Walked in dernernernerner",
-		"Walked in $30,000 in my pocket",
-		"Fidundolla",
-		"$50,000 on your bitch",
-
 		# Supa Hot Fire - Original rap battle
 		"Super hot fire, I spit that",
 		"I'm not a rapper",
 		"Glasses jacket shirt, call me glasses jacket shirt man",
+
+		# Trinidad James - Just A Lil Thick
+		"Cornbread booties fill up the bleachers",
+		"Lil mama got a body like the guy who got Bin Laden",
+		"Dancer hotter than wasabi",
+		"For that booty I can dream",
 
 		# Tyga - Rack City
 		"Rack city bitch",
@@ -105,16 +116,25 @@ SHORT_SENTENCE_SAMPLES = [
 		"Hey big girl, make it back it up",
 		"Back it up, drop it down",
 
+		# YG - I Just Wanna Party
+		"I just wanna party, I don't wanna hurt nobody",
+
 		# YG - Left Right
 		"Left, left right",
 
 		# YG - Who Do You Love
 		"Better run like athletes",
+		"Police pull up, I'm tryna stash the Glock",
+		"You the one that be talkin to the po-pos",
+		"Porsche sittin on Forgis",
 		"I call my homies, not 911",
 		"Bitch, who do you love",
 		"We turnt up in the studio late night",
+		"That's why the songs that you hear are comin' real tight",
+		"If you a player in the game, this should hold you",
 		"My name too big and my gang too big",
 
+		# miscellaneous
 		"Damn it feels good to be a gangsta",
 		"Baby I got your money don't you worry",
 		"Mustard on the beat, ho",

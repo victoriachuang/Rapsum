@@ -72,13 +72,22 @@ LONG_SENTENCE_SAMPLES = [
 		# Shmurda - Hot Ninja
 		"Get that money back and spend it on the same thing",
 
+		# Trinidad James - Just A Lil Thick
+		"Anything the slim hoes can do, she can do it better",		
+
 		# Tyga - Rack City
 		"All the hoes love me, you know what it is",
 
+		# YG - I Just Wanna Party
+		"But when Keisha see Tenisha she gon whoop her ass",
+		"They don't wanna seem like a ho so you gotta hit em on the low",
+
 		# YG - Who Do You Love
+		"She got a buddy named Dolce B and now you know the deal",
 		"We turnt up in the studio late night, that's why the songs that you hear coming real tight",
 		"A lot of fools putting salt in the game til these women get the notion that they running the game",
 		"They got money that they jumping on the pole to make",
 		"But I'm big on the west like I'm big in the south",
+		"Imma crush that ass even if it ain't too big",
 		"I would pinky swear but my pinky ring too big",
 ]

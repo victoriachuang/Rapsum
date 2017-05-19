@@ -6,6 +6,7 @@ NAMES = [
 	"jay_z",
 	"kendrick",
 	"kanye",
+	"LD",
 	"lil_dicky",
 	"lil_wayne",
 	"nicki",
