@@ -101,6 +101,24 @@ SHORT_SENTENCE_SAMPLES = [
 		"Dancer hotter than wasabi",
 		"For that booty I can dream",
 
+		# Tyga - Act Ghetto
+		"She just wanna act ghetto",
+		"She just wanna dance like a stripper",
+		"She just wanna rub her titties, pop her ass",
+		"She just wanna act ghetto when the cameras flash",
+		"She wear diamond on her pussy, diamonds on her neck",
+		"Gonna drink it out the bottle, flip the finger when she rep",
+		"Do it for the 'gram",
+		"She wanna do it",
+		"She wanna stunt like Rihanna, might make me wear Puma",
+		"Gettin' checks like Kylie",
+		"She just wanna get her booty done",
+		"She wanna jump in a jacuzzi, jump in a Ferrari",
+		"Suckin' on a lolly, ride on my Ducati",
+		"Smackin' on her ass, smackin' on her gum",
+		"She wanna stunt like Rihanna, cut her hair, tat her body",
+		"Keep it thug in her life, this why I always keep her by me",
+
 		# Tyga - Rack City
 		"Rack city bitch",
 		"Rack rack city bitch",
