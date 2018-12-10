@@ -73,6 +73,17 @@ SHORT_SENTENCE_SAMPLES = [
 		"We ain't bout to go and spend money just to flex on her",
 		"You get your fucking bill and you can see em double chargin",
 
+		# Lil Wayne - Ice Cream
+		"Young Money, syrup in the big shot",
+		"Time to do the thang that's word to your wrist watch",
+		"Make the girls say my name like roll call",
+		"I'm all over this ice cream beat like sprinkles",
+		"She give me good brain like she studied at Cambridge",
+		"Every day of the week is the first of the month",
+		"We can get it popping like a semi automatic",
+		"When it comes to hoes, man, I got a collage",
+		"Bitch I go hard like the boy from 300",
+
 		# Nelly - "Grillz"
 		"But my lil mama love it",
 		"Let me see your grill",
